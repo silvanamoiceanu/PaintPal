@@ -1,4 +1,16 @@
+🎨 PaintPal
 
+PaintPal is a friendly, web-based drawing app designed for creating digital artwork that can be experienced in Snapchat Spectacles. Built with Supabase on the backend and Figma Make for the frontend, PaintPal makes it simple and fun for anyone—whether beginner or pro—to create, save, and share immersive digital art.
+
+⸻
+
+✨ Features
+	•	🖌️ Web Drawing Canvas – Create artwork directly in your browser.
+	•	🔒 Supabase Backend – Secure storage, authentication, and data management.
+	•	🎭 Spectacles Compatibility – Artwork formatted for display in AR through Snapchat Spectacles.
+	•	🎨 Intuitive UI – A clean, lightweight frontend powered by Figma Make.
+	•	💾 Save & Share – Keep your artwork in the cloud and showcase it easily.
+  
   # PaintPal
 
   This is a code bundle for PaintPal. The original project is available at https://www.figma.com/design/BT7Bl0fKI6Jsx59a2ePgrW/PaintPal.
